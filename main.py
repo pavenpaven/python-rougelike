@@ -1,5 +1,8 @@
 import pygame
 
+def do_window_stuff():
+  pass
+
 class tile:
   pass
 
